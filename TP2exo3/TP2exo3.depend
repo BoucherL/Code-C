@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600951930 source:c:\users\boucherl\desktop\cours\sn\code c\test\tp2exo3\main.c
+	<stdio.h>
+	<stdlib.h>
+
