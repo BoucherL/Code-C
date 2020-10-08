@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601562230 source:c:\users\boucherl\desktop\cours\sn\code c\test\ch2tp1exo3\main.c
+	<stdio.h>
+	<conio.h>
+	<tchar.h>
+
