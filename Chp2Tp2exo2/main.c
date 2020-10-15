@@ -7,7 +7,7 @@ int main()
     float m[3];
     int i=0,j=0;
 
-    printf("Entrez des valeurs : \n");
+    printf("Entrez des valeurs : ");
 
     for=(i=0;i<3;i++)
     {
