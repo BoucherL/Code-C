@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602517207 source:c:\users\boucherl\desktop\cours\sn\code c\test\chp2tp3exo2\main.c
+	<stdio.h>
+	<stdlib.h>
+
