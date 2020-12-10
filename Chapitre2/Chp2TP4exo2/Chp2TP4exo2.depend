@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604591242 source:c:\users\boucherl\desktop\cours\sn\code c\test\chp2tp4exo2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
